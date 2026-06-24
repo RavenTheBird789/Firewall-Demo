@@ -3,6 +3,7 @@ Python script for a demo of a firewall that operates in the users CLI (Command L
 
 Requirements
 * Ensure the latest version of python is installed in your terminal (python 3.x currently)
+* A text editor (such as vim or nano) should be installed/preinstalled in your terminal to edit the blocked_list.txt file if the user chooses
   
 Installation
 * To install, simply type "git clone https://github.com/RavenTheBird789/Firewall-Demo" in your terminals command line
